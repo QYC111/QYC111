@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" >
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QYC111)
-</div>
+
 
 <div align="center">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90" title="javascript">
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   
 </div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QYC111)
