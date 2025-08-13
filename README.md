@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QYC111)
-
+</div>
 
 <div align="center">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90" title="javascript">
